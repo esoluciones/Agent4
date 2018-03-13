@@ -1,0 +1,34 @@
+
+.scrollTableContainer
+{
+	border: 1px solid threedlightshadow;
+	border-color: #316ac5;
+}
+
+.td_header_html
+{
+	/* white-space: nowrap; */
+	border: 1px solid;
+	border-color: #f2f1e2 #e2decd #e2decd #ebeadb;
+	border-bottom: 1px solid #cbc7b8;
+	background: #ebeadb;
+	font-family: Tahoma, Helvetica, Sans-Serif;
+	font-size: 11px;
+	color: #000000;
+	text-align: center;
+	height: 20;
+}
+
+.cells_html
+{
+	/* white-space: nowrap; */
+	border-right: 1px solid threedlightshadow;
+	border-bottom: 1px solid threedlightshadow;
+	background: #FFFFFF;
+	border-color: #CCCCCC;
+	font-family: Tahoma, Helvetica, Sans-Serif;
+	font-size: 11px;
+	color: #000000;
+	text-align: center;
+	height: 20;
+}

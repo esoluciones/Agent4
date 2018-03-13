@@ -1,0 +1,27 @@
+﻿/*Style for table html export to Excel*/
+
+.td_header_html
+{
+    border: 1px solid;
+    border-color: #000000;
+    border-bottom: 1px solid #cbc7b8;
+    background: #C0C0C0;
+    font-family: Tahoma, Helvetica, Sans-Serif;
+    font-size: 11px;
+    color: #000000;
+    text-align: center;
+    height: 20;
+}
+
+.cells_html
+{
+    border-right: 1px solid threedlightshadow;
+    border-bottom: 1px solid threedlightshadow;
+    background: #FFFFFF;
+    border-color: #CCCCCC;
+    font-family: Tahoma, Helvetica, Sans-Serif;
+    font-size: 11px;
+    color: #000000;
+    text-align: center;
+    height: 20;
+}

@@ -1,0 +1,138 @@
+﻿html, body, form {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    background-color: #F8F8F8;
+    background-repeat: repeat-y !important;
+    background-repeat: repeat-x !important;
+}
+
+.rcbHeader ul, .rcbItem ul, .rcbHovered ul, .rcbDisabled ul {
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    min-height: 12px; /* esto es por FF 2.0 de Linux! */
+    display: inline-table;
+    list-style-type: none;
+}
+
+.ListColumn {
+    width: 75px;
+    margin: 0;
+    padding: 0 5px 0 0;
+    font-family: Tahoma, Helvetica, Sans-Serif;
+    font-size: 11px;
+    float: left;
+    line-height: 14px;
+    text-align: center;
+}
+
+.control-group-mail {
+    margin-left: 5%;
+    margin-top: -15px;
+    margin-bottom: -15px;
+}
+
+.header-engage {
+    margin-bottom: -60px !important;
+}
+
+.lnk-Mail {
+    width: 5% !important;
+}
+
+.btn-Mail-actions {
+    text-align: center;
+    border-radius: 10px;
+    background: #E0E0E0;
+}
+
+.btn-Mail-Form {
+    background: #E0E0E0;
+    border: none;
+    height: 30px;
+    width: 35px;
+    border-radius: 10px;
+    margin-bottom: 1%;
+}
+
+.btn-Mail-Attch {
+    border-radius: 10px;
+    height: 30px; /*width:5%;*/
+    background: #E0E0E0;
+}
+
+.txt-MailField {
+    height: 30px !important;
+    width: 81% !important;
+    margin-bottom: 1% !important;
+    margin-top: 1% !important;
+    border: none !important;
+    background-color: transparent !important;
+}
+
+.txt-MailField-FromMail {
+    height: 30px !important;
+    width: 71% !important;
+    margin-bottom: 1% !important;
+    margin-top: 1% !important;
+    border: none !important;
+    background-color: transparent !important;
+}
+
+.txt-MailField-FromName {
+    height: 30px !important;
+    width: 20% !important;
+    margin-bottom: 1% !important;
+    margin-top: 1% !important;
+    border: none !important;
+    background-color: transparent !important;
+}
+
+.txt-attachments {
+    width: 100% !important;
+}
+
+.txt-MailConversation {
+    width: 95%;
+    border-style: inset;
+    min-height: 150px;
+    background-color: white;
+    margin: 2% 1% !important;
+    padding: 5px;
+}
+
+.btn-MailAttach {
+    border: none !important;
+}
+
+.div-conversation {
+    margin-left: 5%;
+}
+
+#divMainBody {
+    text-align: left;
+}
+
+.lst-Mails {
+    width: 170px;
+    height: 300px;
+    margin-left: 20%;
+}
+
+#winTest_C {
+    background-color: #DCDCDC;
+    overflow: hidden !important;
+}
+
+#winAttachments_C {
+    background-color: #DCDCDC;
+    overflow: hidden !important;
+}
+
+#mailToolbar {
+    margin-left: 5%;
+    width: 50%;
+}

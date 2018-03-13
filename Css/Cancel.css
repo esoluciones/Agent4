@@ -1,0 +1,109 @@
+/* Pantalla de cierre de atencion  */
+.td_1
+{
+	background-color: #d0d0d0;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.letra_1
+{
+	font-size: 11px;
+	color: #333333;
+	font-family: Tahoma, Helvetica, Sans-Serif;
+	padding-left: 6px;
+	padding-right: 6px;
+}
+
+.letra_2
+{
+	font-size: 10px;
+	color: #333333;
+	font-family: Tahoma, Helvetica, Sans-Serif;
+	padding-left: 6px;
+	padding-right: 6px;
+	font-weight: bold;
+}
+
+.boton
+{
+	font-family: Verdana, Helvetica, Sans-Serif;
+	font-size: 10px;
+	text-transform: capitalize;
+	color: #FFFFFF;
+	background-color: #4B6681;
+	border-color: #BED2DE;
+	border-width: 1;
+	cursor: hand;
+}
+
+.areaTexto
+{
+	font-family: Verdana, Helvetica, Sans-Serif;
+	font-size: 7pt;
+	border-top: 1px solid #CECFCE;
+	border-bottom: 1px solid #CECFCE;
+	border-left: 1px solid #CECFCE;
+	border-right: 1px solid #CECFCE;
+	overflow: scroll;
+}
+
+input
+{
+	border: solid 1px #CECFCE;
+	font-family: Tahoma, Helvetica, Sans-Serif;
+	border-top: 1px solid #CECFCE;
+	border-bottom: 1px solid #CECFCE;
+	border-left: 1px solid #CECFCE;
+	border-right: 1px solid #CECFCE;
+}
+
+/* Pantalla de derivacion de atencion  */
+.cellText
+{
+	font-family: Tahoma, Helvetica, Sans-Serif;
+	font-size: 11px;
+	color: #000000;
+}
+
+.titleCloseAtt
+{
+	font-family: Tahoma, Helvetica, Sans-Serif;
+	font-size: 11pt;
+	color: #cc0000;
+	vertical-align: middle;
+	padding-top: 20px;
+}
+
+.titulo
+{
+	font-family: Tahoma, Helvetica, Sans-Serif;
+	font-size: 11px;
+	color: #333333;
+	vertical-align: middle;
+}
+
+.backgroundCellText
+{
+	background-color: #EEEEEE;
+	width: 250px;
+	vertical-align: middle;
+}
+
+.backgroundCellInput
+{
+	background-color: #5A8FD1;
+}
+
+.td_titulo
+{
+	padding-right: 10px;
+	text-align: right;
+	padding-top: 10px;
+}
+
+.td_button
+{
+	margin: 0 auto;
+	margin-top: 20px;
+}
